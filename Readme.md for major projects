@@ -1,0 +1,35 @@
+🛠 Mini Management Systems (Python + SQLite)
+
+This repository contains 3 console-based management systems built using Python and SQLite3. Each project solves a real-world problem using a simple terminal interface and a local database.
+
+📁 Projects Included:
+
+1️⃣ ATM Withdrawal System 💳
+
+A simple simulation of an ATM:
+
+User login
+
+Balance check
+
+Withdraw money
+
+Transaction history
+
+2️⃣ Library Management System 📚
+
+Manage book issue/return system for students:
+
+Add and view books
+
+Issue and return books
+
+View issued history
+
+🧰 Tools Used
+
+Python 3.x
+
+SQLite3 (for local DB storage)
+
+CLI (Command Line Interface)
